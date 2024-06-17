@@ -11,7 +11,7 @@ Emost-Bot is a music bot for discord using only voice commands. It will listen t
 
 **There needs to be a very small delay (~0.5s) in order for the bot to start listening for the command. So say 'bumblebee...pause' rather than 'bumblebee pause'.**
 
-# Text Commands(default prefix: !)
+# Text Commands(default prefix: !)vvv
 * connect - connect to the voice channel that the user is in
 * disconnect - disconnect from the voice channel that it was in (will auto disconnect if a user disconnects from the voice channel)
 
